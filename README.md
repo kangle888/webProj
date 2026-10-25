@@ -265,6 +265,8 @@ const localePath = useLocalePath()
 <NuxtLink :to="localePath('/tracking')">Analytics</NuxtLink>
 ```
 
+> 来自 `reglow-python` 的文章/内容如何翻译与缓存，见 [docs/i18n-content.md](docs/i18n-content.md)（源文 + 翻译表 + AI + 按需缓存）。
+
 新增一种语言：
 
 1. `nuxt.config.ts` 的 `i18n.locales` 增加一项（`code` 决定 URL 前缀）；
