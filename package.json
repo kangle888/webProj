@@ -1,6 +1,6 @@
 {
   "name": "reglow-nuxt-starter",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "description": "Reglow + Nuxt 前端开发模板：Nuxt 4 + @reglow/reui + Tailwind CSS 4",
@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@nuxtjs/i18n": "^10.6.0",
-    "@reglow/reui": "^0.6.8",
+    "@reglow/reui": "^0.6.10",
     "@reglow/track": "^0.1.1",
     "highlight.js": "^11.12.0",
     "nuxt": "^4.6.2",
