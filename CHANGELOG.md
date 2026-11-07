@@ -1,5 +1,15 @@
 # Changelog
 
+## 2026-11-07（升级至 0.3.0）
+
+### Changed
+
+- **组件库 @reglow/reui 升级至 ^0.6.11**（自 ^0.6.10；`package.json` / `package-lock.json` 同步）：
+  - 新增 `Slider` 滑块（单值 / 范围 / 垂直 / 步进 / 反向 / 禁用）、`InputGroup` 输入框组（前后置图标 / 文本 / 按钮，共享边框与聚焦环）、`ScrollArea` 自定义滚动区域（纵向 / 横向与 `type` 显示策略）
+  - `Carousel` 切换箭头默认显示并对齐 shadcn-vue 圆形 outline 样式；拖拽增强——惯性强甩切换、非无限循环贴边边界钳制、内部可交互元素不触发拖拽、触屏 `touch-pan-y` 优化
+- **README**：当前版本说明同步为 @reglow/reui 0.6.11
+- **构建校验**：`npm run build`（nuxt build）通过
+
 ## 2026-11-03（升级至 0.2.0）
 
 ### Changed

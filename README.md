@@ -2,7 +2,7 @@
 
 基于 **Nuxt 4 + [@reglow/reui](https://reglow.huoli.tech) + Tailwind CSS 4** 的前端开发模板，面向官网、品牌站、工具网站、电子商务与社区等偏内容与品牌表达的站点。
 
-> 当前版本：**Nuxt 4 + @reglow/reui 0.6.10**（0.6.9：Calendar 统一 grid 列轨道 + sticky 表头、Gauge/Radar 默认色改 `--chart-1`、Checkbox `color`；0.6.10：PageTable 表头「左操作、右筛选」）
+> 当前版本：**Nuxt 4 + @reglow/reui 0.6.11**（0.6.11：新增 Slider / InputGroup / ScrollArea；Carousel 默认箭头与拖拽增强）
 
 开箱包含：克制的企业级视觉与轻动效、布局与导航、主题切换（明暗 + 主色）、多语言切换、组件示例、数据埋点（`@reglow/track`）、ESLint、TypeScript、SSR/SSG 构建。
 
