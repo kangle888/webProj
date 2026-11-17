@@ -1,0 +1,6 @@
+allowBuilds:
+  esbuild: false
+minimumReleaseAge: 0
+verifyDepsBeforeRun: false
+overrides:
+  '@tanstack/vue-table': 8.21.3

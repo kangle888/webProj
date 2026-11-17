@@ -18,9 +18,15 @@
     "@nuxtjs/i18n": "^10.6.0",
     "@reglow/reui": "^0.6.11",
     "@reglow/track": "^0.1.1",
+    "@unovis/ts": "1.8.1",
+    "@unovis/vue": "1.8.1",
+    "dayjs": "1.11.23",
     "highlight.js": "^11.12.0",
     "nuxt": "^4.6.2",
-    "tailwindcss": "^4.3.3"
+    "qrcode": "1.5.4",
+    "sortablejs": "1.14.0",
+    "tailwindcss": "^4.3.3",
+    "vuedraggable": "4.1.0"
   },
   "devDependencies": {
     "@nuxt/eslint": "^1.17.0",
@@ -32,8 +38,5 @@
   },
   "engines": {
     "node": ">=20.19.0"
-  },
-  "overrides": {
-    "@tanstack/vue-table": "8.21.3"
   }
 }
